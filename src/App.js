@@ -13,7 +13,8 @@ import Projects from "./pages/Projects";
 
 function App() {
 
-  const URL = "http://localhost:4000/";
+  // const URL = "http://localhost:4000/";
+  const URL = "https://https://react-xpres-pfolio-bkend-deliv.herokuapp.com/"
 
   return (
     <div className="App">
